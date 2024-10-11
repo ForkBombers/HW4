@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Language%20script-purple)
-![Static Badge](https://img.shields.io/badge/License%20UNIXshell-orange)
+![Static Badge](https://img.shields.io/badge/%20UNIXshell-orange)
 ![Static Badge](https://img.shields.io/badge/Platform%20Linux-green)
 
 ![Static Badge](https://img.shields.io/badge/Grep-pink)
